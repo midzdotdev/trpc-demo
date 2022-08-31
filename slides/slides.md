@@ -3,6 +3,12 @@ download: true
 highlighter: shiki
 lineNumbers: false
 
+layout: image
+image: ./assets/lbb.png
+---
+
+
+---
 layout: center
 ---
 
